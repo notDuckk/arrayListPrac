@@ -4,15 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa5ac799-b232-4e83-bf7b-cb9fa98cc53e" name="Changes" comment="" />
+    <list default="true" id="fa5ac799-b232-4e83-bf7b-cb9fa98cc53e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FifthItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/FifthItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/HowLarge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/HowLarge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/IndexOfInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/IndexOfInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/LastItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/LastItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SumOfList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/SumOfList.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/notDuckk/arrayListPrac.git",
+    "accountId": "6bb50840-69d9-46a9-84ae-f4969b6d6987"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -24,9 +45,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.FifthItem.executor": "Run",
+    "Application.HowLarge.executor": "Run",
+    "Application.IndexOfInteger.executor": "Run",
+    "Application.LastItem.executor": "Run",
+    "Application.SumOfList.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -47,11 +78,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721847639064</updated>
-      <workItem from="1721847640119" duration="1000" />
+      <workItem from="1721847640119" duration="8714000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.OutOfMemoryError" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
